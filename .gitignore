@@ -2,7 +2,11 @@
 /us1_git_project.iml
 out
 target
+*.xml
+out
+.idea
+out
+us1_git_project.iml
 .xml
-
 
 
