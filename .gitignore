@@ -1,5 +1,5 @@
-.idea
-us1_git_project.iml
+/.idea/
+/us1_git_project.iml
 out
 target
 .xml
